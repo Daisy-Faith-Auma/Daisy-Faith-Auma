@@ -72,6 +72,14 @@ Also fluent in: SQL, Power BI (DAX, Power Query), Databricks, q/kdb+, Hugging Fa
 
 I write tutorials on AI, APIs and developer tools. Talks and walkthroughs live on [YouTube @Daisy_codes](https://youtube.com/@Daisy_codes).
 
+## Git garden
+
+<p align="center">
+  <img src="output/bonsai.gif" width="320" alt="Daisy's git-bonsai, a pixel-art tree grown from her GitHub history"/>
+</p>
+
+<p align="center"><sub>A pixel bonsai grown from my commit history. It regrows daily, so every commit counts ✿ Made with <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>.</sub></p>
+
 ## Contributing (let's connect)
 
 <p>
