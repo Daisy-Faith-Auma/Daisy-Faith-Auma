@@ -14,19 +14,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping%20docs%20%26%20demos-ff7eb3?style=flat-square&labelColor=0d0d0d" alt="status"/>
-  <img src="https://img.shields.io/badge/based%20in-Nairobi%2C%20Kenya-ffd23f?style=flat-square&labelColor=0d0d0d" alt="Nairobi"/>
   <img src="https://img.shields.io/badge/open%20to-DevRel%20%26%20docs%20roles-ffffff?style=flat-square&labelColor=0d0d0d" alt="open to roles"/>
 </p>
 
 ---
 
-## 📖 Overview
+## Overview
 
 I'm a **Developer Relations Engineer and Technical Writer**. I help developers go from "what is this?" to their first successful request as fast as possible.
 
 I've documented foundation models, AI APIs, SLAM tooling and one of Africa's biggest payment APIs. I also co-founded **[LuxDevHQ](https://www.luxdevhq.ai/)**, a pan-African AI and data science bootcamp with **20,000+ members across 16 countries**.
 
-## ⚡ Quickstart
+## Quickstart
 
 ```bash
 $ npx meet-daisy
@@ -39,7 +38,7 @@ $ npx meet-daisy
 ✿ ask me      docs strategy, API onboarding, AI/ML, building communities
 ```
 
-## 📝 Changelog
+## Changelog
 
 | Version | Where | What shipped |
 | :-- | :-- | :-- |
@@ -49,7 +48,7 @@ $ npx meet-daisy
 | `2021` | **LuxDevHQ** | Co-founded a bootcamp community that now spans 16 countries |
 | `2020.10` | **Safaricom** | M-PESA Daraja API, supporting a 10,000+ developer community |
 
-## 🌼 Featured work
+## Featured work
 
 | Project | What it does |
 | :-- | :-- |
@@ -59,7 +58,7 @@ $ npx meet-daisy
 | [**trendline**](https://github.com/Daisy-Faith-Auma/trendline) | My Reddit Game of the Day hackathon entry |
 | [**uk-housing-affordability-tracker**](https://github.com/Daisy-Faith-Auma/uk-housing-affordability-tracker) | Housing affordability across England and Wales |
 
-## 🧰 API reference (a.k.a. my toolbox)
+## API reference (a.k.a. my toolbox)
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,vite,cpp,swift,ros,kafka,docker,kubernetes,aws,azure,git,md&theme=dark" alt="Skills"/>
@@ -67,15 +66,13 @@ $ npx meet-daisy
 
 Also fluent in: SQL, Power BI (DAX, Power Query), Databricks, q/kdb+, Hugging Face, docs-as-code.
 
-## ✍️ Latest writing
+## Latest writing
 
-<a href="https://medium.com/@daisyfaithauma">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daisyfaithauma/0" alt="Latest Medium article"/>
-</a>
+<a href="https://medium.com/@daisyfaithauma"><img src="https://img.shields.io/badge/Read%20my%20latest%20on%20Medium%20%E2%9C%BF-ff7eb3?style=for-the-badge&logo=medium&logoColor=0d0d0d" alt="Read my latest on Medium"/></a>
 
-More tutorials and talks on [YouTube @Daisy_codes](https://youtube.com/@Daisy_codes).
+I write tutorials on AI, APIs and developer tools. Talks and walkthroughs live on [YouTube @Daisy_codes](https://youtube.com/@Daisy_codes).
 
-## 🤝 Contributing (let's connect)
+## Contributing (let's connect)
 
 <p>
   <a href="https://daisy-faith-auma.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ff7eb3?style=for-the-badge&logo=netlify&logoColor=0d0d0d" alt="Portfolio"/></a>
